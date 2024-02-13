@@ -44,7 +44,7 @@ rm -rf $package >/dev/null 2>&1
 echo ''
 if [ $extract -eq 0 ]; then 
 echo "> $plugin-$version package installed successfully"
-echo "> Uploaded By ElieSat"
+echo "> Uploaded By Tarek-hanfy"
 sleep 3s
 else
 echo "> $plugin-$version package installation failed"
